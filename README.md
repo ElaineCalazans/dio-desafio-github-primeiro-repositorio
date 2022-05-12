@@ -1,7 +1,5 @@
-Repositório do Desafio de Projeto de Git/Github da Dio
-
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre Git/Github
+Desafio de Projeto de Git/Github da Dio
+Repositório criado para o Desafio do Projeto.
 
 ## Links úteis:
 [Síntaxe Básica MK] (https://www.markdownguide.org/basic-syntax/)
